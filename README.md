@@ -1,4 +1,4 @@
-# ♻️ Chat-TS: A Real-time Chat Application in TypeScript
+# ♻️ Chat-TS: A Real-time Chat Application in TypeScript and BetterTV Emojies
 
 ## Overview
 
@@ -32,24 +32,24 @@ Chat-TS is a real-time chat application built entirely in native TypeScript. It 
 
 1. Clone the repository
 
-\`\`\`
+```
 git clone https://github.com/waldymarxthf/chat-ts.git
-\`\`\`
+```
 
 2. Navigate to the project directory
 
-\`\`\`
+```
 cd chat-ts
-\`\`\`
+```
 
 3. Install dependencies
 
-\`\`\`
+```
 npm install
-\`\`\`
+```
 
 4. Run the development server
 
-\`\`\`
+```
 npm run dev
-\`\`\`
+```
